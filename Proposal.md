@@ -1,7 +1,7 @@
 ## Project Proposal
 
 # What I'm building
-A simple book search app where users can search for books, filter the results, and save books they want to come back to later.
+A simple book search app called miBooks where users can search for books, filter the results, and save books they want to come back to later.
 
 # Which API I'm using
 Open Library API

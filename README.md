@@ -1,6 +1,6 @@
-# Book Finder
+# miBooks
 
-This app uses the Open Library API to search for books and show the results on the page.
+miBooks uses the Open Library API to search for books and show the results on the page.
 
 It lets the user:
 
