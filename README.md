@@ -12,7 +12,7 @@ API used:
 https://openlibrary.org/developers/api
 
 Live site:
-https://pfernandezdecordova1.github.io/NewsToMe/
+https://pfernandezdecordova1.github.io/miniproject3-miBooks/
 
 What I learned:
 
